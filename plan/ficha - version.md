@@ -1,4 +1,4 @@
-# Ficha de verificación de versión · Grupo 05
+# Ficha de verificación de versión · Grupo 05 B
 
 ## Zorin OS (VM gráfica)
 
