@@ -1,4 +1,4 @@
-# Plan de trabajo - Grupo 05B
+# Plan de trabajo - Grupo 05 B
 
 ## Proyecto Final - Sistemas Operativos 2026-2
 
