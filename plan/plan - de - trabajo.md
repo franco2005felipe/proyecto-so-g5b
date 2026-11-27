@@ -1,4 +1,8 @@
-#Plan de trabajo · Grupo 05B
+# Plan de trabajo - Grupo 05B
+
+## Proyecto Final - Sistemas Operativos 2026-2
+
+Sede: Yumbo
 
 | Integrante | Rol | Qué hace | Archivos |
 |---|---|---|---|
