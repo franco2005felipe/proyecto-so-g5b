@@ -28,4 +28,11 @@ Captura 5: las cinco herramientas mostrando su versión
 g05b-consola
 <img width="1182" height="819" alt="image" src="https://github.com/user-attachments/assets/b01d7c9f-2f86-4976-b566-f05aeb17f7b4" />
 
+## Video del sprint (3 minutos)
+(link)
 
+## Lo que hizo cada integrante en este sprint
+| Integrante | Que hizo | Commits |
+|---|---|---|
+| Julian Duque | Creo el archivo del sitio, se encargo del video,subio parte de las capturas al sitio y se encargo de llenar VM de consola| 10 |
+| Feipe Franco | Se encargo de la VM grafica, de la RED y de la SSH | 0 |
