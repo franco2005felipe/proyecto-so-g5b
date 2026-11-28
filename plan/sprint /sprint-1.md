@@ -20,6 +20,12 @@ Captura 5: las cinco herramientas mostrando su versión
 
 <img width="1275" height="828" alt="image" src="https://github.com/user-attachments/assets/0165745f-d1ac-4a81-9968-cc9dd717916a" />
 
+### Navegadores y editores de texto
+
+Evidencia de la instalación de los navegadores Brave y Firefox, y de los editores de texto Nano y Vim en la máquina virtual Zorin OS 18.1.
+<img width="1912" height="1071" alt="Zorin_Navegadores_Editores" src="https://github.com/user-attachments/assets/941a1e66-fae0-4c8d-9548-5975d0a839f6" />
+
+
 ## 5. Instantáneas
 ## Captura 10: pestaña de instantáneas de g05b-consola
 <img width="976" height="761" alt="image" src="https://github.com/user-attachments/assets/8ddad52b-eeb7-49c1-abfa-6858dee8b63f" />
