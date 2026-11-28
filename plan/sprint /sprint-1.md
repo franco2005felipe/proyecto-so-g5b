@@ -17,6 +17,9 @@ Captura 2: lsblk, df -h y cat /etc/fstab, con el prompt usuario@g05<img width="1
 
 Captura 3: los dos navegadores y los dos editores abiertos
 
+<img width="1912" height="1071" alt="Zorin_Navegadores_Editores" src="https://github.com/user-attachments/assets/e1c0d823-98bb-4a56-847e-adf5fd4be333" />
+
+
 
 
 ## 2. VM de consola (g05b-consola)
