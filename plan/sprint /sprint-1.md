@@ -61,7 +61,8 @@ g05b-consola
 <img width="1182" height="819" alt="image" src="https://github.com/user-attachments/assets/b01d7c9f-2f86-4976-b566-f05aeb17f7b4" />
 
 ## Video del sprint (3 minutos)
-(link video)
+[(link video)](https://youtu.be/wC3URyjJ_4w)
+
 ## Lo que hizo cada integrante en este sprint
 
 | Integrante | Qué hizo | Commits |
