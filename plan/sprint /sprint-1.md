@@ -12,7 +12,7 @@
 | `/home` | 4.8 GB | Los archivos de los usuarios, separados del sistema |
 
 ## 2. VM de consola (g05b-consola)
-Captura 4: se muestra los comandos pedidos (lsblk, df -h y cat /etc/fstab de g07-consola, con prompt y fecha)
+Captura 4: se muestra los comandos pedidos (lsblk, df -h y cat /etc/fstab de g05b-consola, con prompt y fecha)
 
 <img width="1273" height="818" alt="image" src="https://github.com/user-attachments/assets/f55e7786-12e9-47cc-809c-8c376023b535" />
 
