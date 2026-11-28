@@ -1,7 +1,11 @@
 # Sprint 1 Montaje 
 ## 1. VM gráfica Zorin 18.1
+Captura 1: editor de particiones durante la instalación
 <img width="1137" height="738" alt="image" src="https://github.com/user-attachments/assets/56f72c04-e805-425d-ba0b-5f8ecb2e3ee6" />
 
+Captura 2: lsblk, df -h y cat /etc/fstab, con el prompt usuario@g07-grafica y la salida de date
+
+Captura 3: los dos navegadores y los dos editores abiertos
 
 ## Tabla de como lo distribuimos
 
