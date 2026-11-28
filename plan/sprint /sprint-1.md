@@ -12,7 +12,7 @@
 | `/home` | 4.8 GB | Los archivos de los usuarios, separados del sistema |
 
 ## 2. VM de consola (g05b-consola)
-Captura 4: se muestra los comandos pedidos (lsblk, df -h y cat /etc/fstab de g05b-consola, con prompt y fecha)
+Captura 4: se muestra los comandos pedidos (lsblk, df -h y cat /etc/fstab de g07-consola, con prompt y fecha)
 
 <img width="1273" height="818" alt="image" src="https://github.com/user-attachments/assets/f55e7786-12e9-47cc-809c-8c376023b535" />
 
@@ -20,29 +20,30 @@ Captura 5: las cinco herramientas mostrando su versión
 
 <img width="1275" height="828" alt="image" src="https://github.com/user-attachments/assets/0165745f-d1ac-4a81-9968-cc9dd717916a" />
 
-### Navegadores y editores de texto
+## 3. Red
+Captura 6: ip a en las dos VMs, mostrando una dirección en cada interfaz
+<img width="1326" height="995" alt="fedora ip" src="https://github.com/user-attachments/assets/c727d966-7864-45e2-a452-9388a698247b" />
 
-Evidencia de la instalación de los navegadores Brave y Firefox, y de los editores de texto Nano y Vim en la máquina virtual Zorin OS 18.1.
-<img width="1912" height="1071" alt="Zorin_Navegadores_Editores" src="https://github.com/user-attachments/assets/941a1e66-fae0-4c8d-9548-5975d0a839f6" />
+Captura 7: ping de la gráfica a la consola y de la consola a la gráfica
+<img width="1461" height="1020" alt="evidencia ping fedora" src="https://github.com/user-attachments/assets/b688572b-10e0-4bbb-af6b-09cc765ec486" />
+
+## 4. SSH
+Captura 8: la sesión SSH abierta, con el prompt de la consola
+<img width="1431" height="1000" alt="sprint1_conexion ssh zorin a fedora" src="https://github.com/user-attachments/assets/736d8af7-4eed-4484-8243-14f90f33177d" />
 
 
 ## 5. Instantáneas
+## Captura 9: pestaña de instantáneas de g05b-grafica
+<img width="1917" height="1077" alt="Zorin_Instantanea_Instalacion_Limpia(parte 5)" src="https://github.com/user-attachments/assets/7910e259-eb21-42ac-9372-cae3a84b0dcf" />
+
+
 ## Captura 10: pestaña de instantáneas de g05b-consola
 <img width="976" height="761" alt="image" src="https://github.com/user-attachments/assets/8ddad52b-eeb7-49c1-abfa-6858dee8b63f" />
 
-## captura pestaña de instantaneas de g05b-grafica
-<img width="1917" height="1077" alt="Zorin_Instantanea_Instalacion_Limpia(parte 5)" src="https://github.com/user-attachments/assets/d95eb5b2-e8d6-4303-a0f3-9850c62a828f" />
-
 
 ## Código del sprint
+g05b-grafica
+
+
 g05b-consola
 <img width="1182" height="819" alt="image" src="https://github.com/user-attachments/assets/b01d7c9f-2f86-4976-b566-f05aeb17f7b4" />
-
-## Video del sprint (3 minutos)
-(link)
-
-## Lo que hizo cada integrante en este sprint
-| Integrante | Que hizo | Commits |
-|---|---|---|
-| Julian Duque | Creo el archivo del sitio, se encargo del video,subio parte de las capturas al sitio y se encargo de llenar VM de consola| 10 |
-| Feipe Franco | Se encargo de la VM grafica, de la RED y de la SSH | 0 |
