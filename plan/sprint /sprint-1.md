@@ -43,6 +43,7 @@ Captura 8: la sesión SSH abierta, con el prompt de la consola
 
 ## Código del sprint
 g05b-grafica
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/a6314da4-21ec-45eb-81e7-5263fc54ceda" />
 
 
 g05b-consola
