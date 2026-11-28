@@ -12,9 +12,13 @@ Captura 1: editor de particiones durante la instalación
 | `swap` | 2 GB | Igual a la RAM de la VM, por si falta memoria |
 | `/home` | 4.8 GB | Los archivos de los usuarios, separados del sistema |
 
-Captura 2: lsblk, df -h y cat /etc/fstab, con el prompt usuario@g07-grafica y la salida de date
+Captura 2: lsblk, df -h y cat /etc/fstab, con el prompt usuario@g05<img width="1912" height="1071" alt="Zorin_Navegadores_Editores" src="https://github.com/user-attachments/assets/8b400663-3ab8-4f96-bf26-10b1f90b5609" />
+<img width="1915" height="1077" alt="Zorin_Verificacion_Final" src="https://github.com/user-attachments/assets/52618c3f-a21a-4822-addc-f27142a3fca3" />
+-grafica y la salida de date
 
 Captura 3: los dos navegadores y los dos editores abiertos
+![Uploading Zorin_Navegadores_Editores.png…]()
+
 
 ## 2. VM de consola (g05b-consola)
 Captura 4: se muestra los comandos pedidos (lsblk, df -h y cat /etc/fstab de g07-consola, con prompt y fecha)
