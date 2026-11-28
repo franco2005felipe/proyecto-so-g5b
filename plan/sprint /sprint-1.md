@@ -3,9 +3,6 @@
 Captura 1: editor de particiones durante la instalación
 <img width="1137" height="738" alt="image" src="https://github.com/user-attachments/assets/56f72c04-e805-425d-ba0b-5f8ecb2e3ee6" />
 
-Captura 2: lsblk, df -h y cat /etc/fstab, con el prompt usuario@g07-grafica y la salida de date
-
-Captura 3: los dos navegadores y los dos editores abiertos
 
 ## Tabla de como lo distribuimos
 
@@ -14,6 +11,10 @@ Captura 3: los dos navegadores y los dos editores abiertos
 | `/` | 20 GB | El sistema y los programas, con margen para actualizar |
 | `swap` | 2 GB | Igual a la RAM de la VM, por si falta memoria |
 | `/home` | 4.8 GB | Los archivos de los usuarios, separados del sistema |
+
+Captura 2: lsblk, df -h y cat /etc/fstab, con el prompt usuario@g07-grafica y la salida de date
+
+Captura 3: los dos navegadores y los dos editores abiertos
 
 ## 2. VM de consola (g05b-consola)
 Captura 4: se muestra los comandos pedidos (lsblk, df -h y cat /etc/fstab de g07-consola, con prompt y fecha)
