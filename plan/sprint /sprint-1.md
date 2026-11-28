@@ -62,3 +62,9 @@ g05b-consola
 
 ## Video del sprint (3 minutos)
 (link video)
+## Lo que hizo cada integrante en este sprint
+
+| Integrante | Qué hizo | Commits |
+|---|---|---|
+| Julián | Instaló la VM de consola (Fedora Server), configuró el particionado, las herramientas, el código del sprint,el archivo de github y revisar que nada falte| 12 |
+| Felipe | Instaló la VM gráfica (Zorin OS), configuró la red, las pruebas de ping, SSH y subió las capturas al repositorio | 2 |
