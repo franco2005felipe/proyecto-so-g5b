@@ -24,3 +24,8 @@ Captura 5: las cinco herramientas mostrando su versión
 ## Captura 10: pestaña de instantáneas de g05b-consola
 <img width="976" height="761" alt="image" src="https://github.com/user-attachments/assets/8ddad52b-eeb7-49c1-abfa-6858dee8b63f" />
 
+## Código del sprint
+g05b-consola
+<img width="1182" height="819" alt="image" src="https://github.com/user-attachments/assets/b01d7c9f-2f86-4976-b566-f05aeb17f7b4" />
+
+
